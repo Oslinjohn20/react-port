@@ -19,15 +19,15 @@ const EducationPage = () => {
             <span>Sept'19 - Present</span>
             <a href="/">
               <LocationOn />
-              Bangalore, India
+              Cape Town
             </a>
           </p>
         </div>
         <div className="education">
-          <p>Post Gradute Diploma</p>
-          <p>Center for Development of Advanced Computing</p>
+          <p>Life Choices Coding Academy</p>
+          <p>Coding Academy</p>
           <p>
-            <span>Feb'19 - Aug'19</span>
+            <span>Feb'20 - Aug'20</span>
             <a href="/">
               <LocationOn />
               Bangalore, India
@@ -35,24 +35,24 @@ const EducationPage = () => {
           </p>
         </div>
         <div className="education">
-          <p>Bachelors of Engineering</p>
-          <p>ABC College of XYZ</p>
+          <p>Motor Mechanics </p>
+          <p>NorthLink College/ Imperial technical Training Center </p>
           <p>
-            <span>July'14 - June'18</span>
+            <span>March '12 - Apr'17</span>
             <a href="/">
               <LocationOn />
-              Pune, India
+              Bellville, Cape Town
             </a>
           </p>
         </div>
         <div className="education">
           <p>Higher Secondary Education</p>
-          <p>Kendriya Vidyalaya VFJ School</p>
+          <p>Elsies River High</p>
           <p>
-            <span>April'13 - March'14</span>
+            <span>December '10</span>
             <a href="/">
               <LocationOn />
-              Delhi, India
+              Elsies River, Cape Town
             </a>
           </p>
         </div>

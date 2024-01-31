@@ -1,5 +1,8 @@
 # React Basic Portfolio
 
+
+### Side Note The styling of this is not complete
+
 This is a basic react portfolio with a minimal design set in a dark color scheme that I have constructed.
 
 ## Table of Contents
